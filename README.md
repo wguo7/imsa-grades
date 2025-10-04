@@ -1,5 +1,4 @@
 # IMSA Grades
-## [View the site](https://imsagrades.com)
 
 ## About
 IMSA Grades was made as an easy tool to view past grade data for classes at IMSA. It is not an official site.

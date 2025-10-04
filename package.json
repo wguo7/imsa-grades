@@ -5,7 +5,7 @@
     "start": "node index"
   },
   "engines": {
-    "node": "18"
+    "node": "22"
   },
   "dependencies": {
     "csv-reader": "^1.0.6",

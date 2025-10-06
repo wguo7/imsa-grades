@@ -1,5 +1,5 @@
 {
-  "name": "imsa-grades",
+  "name": "imsa-report",
   "description": "",
   "scripts": {
     "start": "node index"
